@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @Double-Choco
-- 👀 I’m interested in python
-- 🌱 I’m currently learning ...
